@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D., Biostatistics
+Postdoc research fellow, Biostatistics
 
 Background
 ======
