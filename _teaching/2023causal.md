@@ -2,7 +2,7 @@
 title: "Causal Inference"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/
+permalink: /teaching/causal
 venue: "Peking University"
 date: 2023-09-15
 location: "Beijing, China"
