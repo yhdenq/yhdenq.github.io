@@ -1,5 +1,5 @@
 ---
-title: "Separable pathway Effects of semi-competing risks via multi-state models"
+title: "Separable pathway effects of semi-competing risks via multi-state models"
 collection: talks
 permalink: /talks/2023separable
 type: "Talk"
