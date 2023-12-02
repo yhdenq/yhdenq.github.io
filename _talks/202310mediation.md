@@ -8,6 +8,8 @@ date: 2023-10-04
 location: "Osaka, Japan"
 ---
 
+[Slides](../files/2023mediation.pdf)
+
 Semi-competing risks refer to the phenomenon that the terminal event (such as death) can truncate the non-terminal event 
 (such as disease progression) but not vice versa. The treatment effect on the terminal event can be delivered either 
 directly following the treatment or indirectly through the non-terminal event. We consider two strategies to decompose 
@@ -17,5 +19,3 @@ different assumptions on cross-world quantities to achieve identifiability. We e
 estimated counterfactual cumulative incidences and decomposed treatment effects. Through simulation studies and real-data 
 applications we illustrate the subtle difference between these two decompositions. We also discuss the interpretations of 
 direct and indirect effects under the framework of separable effects. 
-
-[Slides](../files/2023mediation.pdf)
