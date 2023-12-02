@@ -1,5 +1,5 @@
 ---
-title: "Causal Inference"
+title: "Causal Inference in Biostatistics"
 collection: teaching
 type: "Short course"
 permalink: /teaching/causal
