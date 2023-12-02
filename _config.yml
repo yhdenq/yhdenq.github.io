@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Y Deng"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Yuhao Deng"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Y Deng"
+  name             : "Yuhao Deng"
   avatar           : "profile.png"
   bio              : "Ph.D in Statistics"
   location         : "USA"
