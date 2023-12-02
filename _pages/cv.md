@@ -29,3 +29,26 @@ Academic service
 * Reviewer for <i>Biostatistics and Epidemiology</i>
 * Reviewer for <i>Journal of Causal Inference</i>
 * Menmber of Chinese Association for Applied Statistics (中国现场统计研究会)
+
+Teaching
+=====
+* 2023 Short course:         Causal inference in Biostatistics
+* 2022-2023 Spring semester: (Teaching assistant) Advanced Research Seminar in Econometrics
+* 2022-2023 Fall semester:   (Teaching assistant) Intermediate Econometrics
+* 2021-2022 Spring semester: (Teaching assistant) Mathematical Statistics, Causal Inference in Biostatistics
+* 2021-2022 Fall semester:   (Teaching assistant) Linear Algebra (B)
+* 2021 Summer school:        (Teaching assistant) Survival Analysis
+* 2020-2021 Spring semester: (Teaching assistant) Causal Inference in Biostatistics
+* 2020-2021 Fall semester:   (Teaching assistant) Mathematical Statistics
+* 2020 Summer school:        (Teaching assistant) Causal Inference in Biostatistics
+* 2019-2020 Spring semester: (Teaching assistant) Probability and Statistics (B)
+* 2019-2020 Fall semester:   (Teaching assistant) Applied Stochastic Processes
+* 2018-2019 Spring semester: (Teaching assistant) Probability and Statistics (B)
+* 2018-2019 Fall semester:   (Teaching assistant) Mathematical Statistics
+
+Patents
+=====
+周晓华、邓宇昊、陆芳、赵阳. 基于临床试验数据的数据处理方法及系统. 专利号ZL 2021 1 0064413.6
+周晓华、汪毅、邓宇昊. 一种药物有效性评估方法. 专利号ZL 2023 1 0753119.5
+
+[Download CV](../files/YDeng_CV.pdf)
