@@ -23,24 +23,6 @@ Work experience
 * 2023-2024 Postdoc research fellow
   * Department of Biostatistics, Univeristy of Michigan
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service
 ======
 * 中国现场统计研究会
