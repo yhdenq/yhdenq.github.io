@@ -16,5 +16,7 @@ I got my doctoral degree at School of Mathematics, Peking University. Now I am a
 
 Research interests
 ======
-Causal inference, survival analysis.
+Causal inference; <br />
+Observational studies; <br />
+Survival analysis.
 
