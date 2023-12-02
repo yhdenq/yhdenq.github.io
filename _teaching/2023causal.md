@@ -16,4 +16,4 @@ Mediation analysis;
 Principal stratification;
 Broken randomized experiments;
 Observational studies: Ignorability;
-Pbservational studies: Non-ignorability.
+Observational studies: Non-ignorability.
