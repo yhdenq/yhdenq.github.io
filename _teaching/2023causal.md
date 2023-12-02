@@ -8,7 +8,8 @@ date: 2023-09-15
 location: "Beijing, China"
 ---
 
-This is a short course at Pacific Causal Inference Conference (PCIC) 2023 held at Peking University, Beijing, China.
+This is a short course at Pacific Causal Inference Conference ([PCIC 2023](https://pattern.swarma.org/pcic/))
+held at Peking University, Beijing, China.
 This course targets on graduate students, undergraduate studentss, clinicians, and statisticians in industry.
 
 
