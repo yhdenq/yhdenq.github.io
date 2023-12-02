@@ -11,30 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics and applied mathematics, School of Mathematical Sciences, Peking University, 2018
+* B.S. in Economics, National School of Development, Peking University, 2018
+* M.S. in Human rights, Law School, Peking University & Raoul Wallenberg Institute of Human Rights and Humanitarian Law, 2019
+* Ph.D in Statistics, School of Mathematical Sciences, Peking University
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2023 Visiting scholar
+  * Beijing International Center for Mathematical Reseacrch (BICMR), Peking University
+* 2023-2024 Postdoc research fellow
+  * Department of Biostatistics, Univeristy of Michigan
 
 Publications
 ======
@@ -54,6 +41,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* 中国现场统计研究会
