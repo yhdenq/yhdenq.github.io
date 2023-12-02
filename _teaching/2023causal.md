@@ -1,12 +1,16 @@
 ---
 title: "Causal Inference"
 collection: teaching
-type: "Undergraduate course"
+type: "Short course"
 permalink: /teaching/causal
 venue: "Peking University"
 date: 2023-09-15
 location: "Beijing, China"
 ---
+
+This is a short course at Pacific Causal Inference Conference (2023).
+
+
 
 History of causal inference;
 Fundamental concepts in causal inference;
