@@ -46,6 +46,10 @@ Teaching
 * 2018-2019 Spring semester: (Teaching assistant) Probability and Statistics (B)
 * 2018-2019 Fall semester:   (Teaching assistant) Mathematical Statistics
 
+Grants
+=====
+2022—2024 National Key Research and Development Program (科技部国家重点研发计划)  “面向药品现代化监管的智能化服务平台研发与应用”（项目骨干）
+
 Patents
 =====
 * 周晓华、邓宇昊、陆芳、赵阳. 基于临床试验数据的数据处理方法及系统. 专利号ZL 2021 1 0064413.6
