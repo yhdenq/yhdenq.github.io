@@ -8,8 +8,6 @@ date: 2023-09-15
 location: "Beijing, China"
 ---
 
-#
-
 History of causal inference;
 Fundamental concepts in causal inference;
 Randomized controlled experiments;
@@ -19,3 +17,5 @@ Principal stratification;
 Broken randomized experiments;
 Observational studies: Ignorability;
 Observational studies: Non-ignorability.
+
+[Materials (in Chinese)](../files/causal_short_course.pdf)
