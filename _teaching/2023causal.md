@@ -8,6 +8,9 @@ date: 2023-09-15
 location: "Beijing, China"
 ---
 
+Causal Inference in Biostatistics
+===
+
 History of causal inference;
 Fundamental concepts in causal inference;
 Randomized controlled experiments;
