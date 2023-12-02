@@ -32,7 +32,7 @@ Academic service
 
 Teaching
 =====
-* 2023 Short course:         Causal inference in Biostatistics
+* 2023 Short course:         Causal Inference in Biostatistics
 * 2022-2023 Spring semester: (Teaching assistant) Advanced Research Seminar in Econometrics
 * 2022-2023 Fall semester:   (Teaching assistant) Intermediate Econometrics
 * 2021-2022 Spring semester: (Teaching assistant) Mathematical Statistics, Causal Inference in Biostatistics
@@ -48,7 +48,7 @@ Teaching
 
 Patents
 =====
-周晓华、邓宇昊、陆芳、赵阳. 基于临床试验数据的数据处理方法及系统. 专利号ZL 2021 1 0064413.6
-周晓华、汪毅、邓宇昊. 一种药物有效性评估方法. 专利号ZL 2023 1 0753119.5
+* 周晓华、邓宇昊、陆芳、赵阳. 基于临床试验数据的数据处理方法及系统. 专利号ZL 2021 1 0064413.6
+* 周晓华、汪毅、邓宇昊. 一种药物有效性评估方法. 专利号ZL 2023 1 0753119.5
 
 [Download CV](../files/YDeng_CV.pdf)
