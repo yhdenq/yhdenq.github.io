@@ -12,10 +12,9 @@ Ph.D., Biostatistics
 
 Background
 ======
-Peking University
-University of Michigan
+I got my doctoral degree at School of Mathematics, Peking University. Now I am a postdoc fellow at Biostatistics Department,  University of Michigan.
 
 Research interests
 ======
-Causal ifnerence, survival analysis
+Causal inference, survival analysis.
 
