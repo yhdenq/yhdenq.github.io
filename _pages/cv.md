@@ -28,7 +28,7 @@ Academic service
 * Reviewer for <i>Statistics in Medicine</i>
 * Reviewer for <i>Biostatistics and Epidemiology</i>
 * Reviewer for <i>Journal of Causal Inference</i>
-* Menmber of Chinese Association for Applied Statistics (中国现场统计研究会)
+* Member of Chinese Association for Applied Statistics (中国现场统计研究会)
 
 Teaching
 =====
