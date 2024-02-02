@@ -19,12 +19,12 @@ He Y, Deng Y#, You C, Zhou X-H. Equivalence Tests for Ratio of Means in Bioequiv
 
 Wu P, Li H#, Deng Y, Hu W, Dai Q, Dong Z, Sun J, Zhang R, Zhou X-H. On the Opportunity of Causal Learning in Recommendation Systems: Foundation, Estimation, Prediction and Challenges. IJCAI Survey Track. 2022.
 
+Wang Y, Deng Y#, Zhou X-H. Causal Inference for Time-to-Event Data with A Cured Subpopulation. Biimetrics. 2024.
+
 Deng Y, Chang Y, Zhou X-H. Causal Inference with Truncation-by-Death and Confounded Principal Strata. Under review.
 
 Deng Y, Wang Y, Zhan X, Zhou X-H. Separable Pathway Effects of Semi-competing Risks via Multi-State Models. Under review.
 
 Deng Y, Guo Y, Zhang Y, Wang F. Causal Pathways of Truncation-by-Death Using Sure Outcomes of Random Events Models. Under review.
-
-Wang Y, Deng Y#, Zhou X-H. Causal Inference for Time-to-Event Data with A Cured Subpopulation. Under review.
 
 Deng Y, Wang Y, Zhou X-H. Direct and Indirect Effects in the presence of Semi-competing risks. Under review.
