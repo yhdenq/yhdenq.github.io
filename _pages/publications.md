@@ -23,11 +23,11 @@ Wang F, Deng Y*. Non-Asymptotic Bounds of AIPW Estimators for Means with Missing
 
 Wang Y, Deng Y#, Zhou X-H*. Causal Inference for Time-to-Event Data with A Cured Subpopulation. Biometrics. 2024.
 
+Deng Y, Wang Y, Zhou X-H*. Direct and Indirect Effects in the presence of Semi-competing risks. Biometrics. 2024.
+
 Deng Y, Guo Y, Zhang Y, Wang F*. Causal Pathways of Truncation-by-Death Using Sure Outcomes of Random Events Models. Under review.
 
 Deng Y, Chang Y, Zhou X-H*. Causal Inference with Truncation-by-Death and Confounded Principal Strata. ArXiv.
-
-Deng Y, Wang Y, Zhou X-H*. Direct and Indirect Effects in the presence of Semi-competing risks. ArXiv.
 
 Deng Y, Wang Y, Zhan X, Zhou X-H*. Separable Pathway Effects of Semi-competing Risks via Multi-State Models. ArXiv.
 
