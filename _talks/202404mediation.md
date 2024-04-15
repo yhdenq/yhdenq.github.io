@@ -1,14 +1,14 @@
 ---
 title: "Mediation analysis for time-to-event outcomes"
 collection: talks
-permalink: /talks/2023mediation
+permalink: /talks/2024mediation
 type: "Talk"
-venue: "Osaka University"
-date: 2023-10-04
-location: "Osaka, Japan"
+venue: "University of Michigan"
+date: 2024-04-15
+location: "Ann Arbor, Michigan, USA"
 ---
 
-[Slides](../files/2023mediation.pdf)
+[Slides](../files/2024mediation.pdf)
 
 Semi-competing risks refer to the phenomenon that the terminal event (such as death) can truncate the non-terminal event 
 (such as disease progression) but not vice versa. The treatment effect on the terminal event can be delivered either 
