@@ -25,10 +25,12 @@ Wang Y, Deng Y#, Zhou X-H*. Causal Inference for Time-to-Event Data with A Cured
 
 Deng Y, Wang Y, Zhou X-H*. Direct and Indirect Effects in the presence of Semi-competing risks. Biometrics. 2024.
 
-Deng Y, Guo Y, Zhang Y, Wang F*. Causal Pathways of Truncation-by-Death Using Sure Outcomes of Random Events Models. Under review.
+Deng Y, Wei H, Xiao X, Zhang Y, Huang Y. Sequential Ignorability and Dismissible Treatment Components to Identify Mediation Effects. Mathematics. 2024.
+
+Deng Y, Guo Y, Zhang Y, Wang F*. Causal Pathways of Truncation-by-Death Using Sure Outcomes of Random Events Models. Manuscript.
 
 Deng Y, Chang Y, Zhou X-H*. Causal Inference with Truncation-by-Death and Confounded Principal Strata. ArXiv.
 
-Deng Y, Wang Y, Zhan X, Zhou X-H*. Separable Pathway Effects of Semi-competing Risks via Multi-State Models. ArXiv.
+Deng Y, Wang Y, Zhan X, Zhou X-H*. Separable Pathway Effects of Semi-competing Risks using Multi-State Models. ArXiv.
 
 Deng Y, Han S#, Zhou X-H*. Inference for Cumulative Incidences and Treatment Effects in Randomized Controlled Trials with Time-to-Event Outcomes under ICH E9 (R1). ArXiv.
