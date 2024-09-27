@@ -51,7 +51,7 @@ Teaching
 
 Grants
 =====
-2022—2024 National Key Research and Development Program (科技部国家重点研发计划)  “面向药品现代化监管的智能化服务平台研发与应用”（项目骨干）
+* 2022—2024 National Key Research and Development Program (科技部国家重点研发计划)  “面向药品现代化监管的智能化服务平台研发与应用”（项目骨干）
 
 Patents
 =====
@@ -60,8 +60,8 @@ Patents
 
 Books
 =====
-Xiaohua Zhou、Chuan Zhou、Danping Liu、Xiaobo Ding著. 侯艳、邓宇昊、孙佳瑞译. 缺失数据分析在健康科学中的应用. 人民卫生出版社. 2021.
-Roderick J.A. Little、Donald B. Rubin著. 周晓华、邓宇昊译. 缺失数据统计分析. 高等教育出版社. 2022.
-Paul R. Rosembaum著. 周晓华、韩开山、杨伟、邓宇昊译.观察性研究的设计. 高等教育出版社. 2024.
+* Xiaohua Zhou、Chuan Zhou、Danping Liu、Xiaobo Ding著. 侯艳、邓宇昊、孙佳瑞译. 缺失数据分析在健康科学中的应用. 人民卫生出版社. 2021.
+* Roderick J.A. Little、Donald B. Rubin著. 周晓华、邓宇昊译. 缺失数据统计分析. 高等教育出版社. 2022.
+* Paul R. Rosembaum著. 周晓华、韩开山、杨伟、邓宇昊译.观察性研究的设计. 高等教育出版社. 2024.
 
 [Download CV](../files/YDeng_CV.pdf)
