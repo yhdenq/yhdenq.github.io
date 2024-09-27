@@ -12,11 +12,12 @@ Postdoc research fellow, Biostatistics
 
 Background
 ======
-I got my doctoral degree at School of Mathematics, Peking University. Now I am a postdoc fellow at Biostatistics Department,  University of Michigan.
+I got my doctoral degree at School of Mathematics, Peking University. Now I am a postdoc fellow at Biostatistics Department, University of Michigan.
 
 Research interests
 ======
 Causal inference; <br />
 Observational studies; <br />
-Survival analysis.
+Survival analysis; <br />
+Semiparametric theory.
 
