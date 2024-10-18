@@ -12,7 +12,7 @@ Postdoc research fellow, Biostatistics
 
 Background
 ======
-I got my doctoral degree at School of Mathematics, Peking University. Now I am a postdoc fellow at Biostatistics Department, University of Michigan.
+I got my bachelor and doctoral degrees at School of Mathematical Sciences, Peking University. Now I am a postdoc research fellow at Department of Biostatistics, University of Michigan.
 
 Research interests
 ======
