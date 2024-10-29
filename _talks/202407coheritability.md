@@ -4,7 +4,7 @@ collection: talks
 permalink: /talks/2024coheritability2
 type: "Talk"
 venue: "Joint Conference on Statistics and Data Science in China (JCSDS)"
-date: 2023-07-16
+date: 2024-07-15
 location: "Kunming, China"
 ---
 
