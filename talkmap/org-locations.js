@@ -13,4 +13,5 @@ var addressPoints = [
     "Ann Arbor, Michigan, USA",
     42.2808, 
     83.7430
+  ]
   ];
