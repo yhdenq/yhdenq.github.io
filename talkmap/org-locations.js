@@ -3,7 +3,6 @@ var addressPoints = [
     "Osaka, Japan",
     34.6937, 
     135.5023
-    
   ],
   [
     "Beijing, China",
