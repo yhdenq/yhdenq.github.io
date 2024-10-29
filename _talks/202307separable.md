@@ -3,7 +3,7 @@ title: "Separable pathway effects of semi-competing risks via multi-state models
 collection: talks
 permalink: /talks/2023separable2
 type: "Talk"
-venue: "Joint Conference on Statistics and Data Science (JCSDS)"
+venue: "Joint Conference on Statistics and Data Science in China (JCSDS)"
 date: 2023-07-12
 location: "Beijing, China"
 ---
