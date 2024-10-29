@@ -8,7 +8,7 @@ date: 2024-07-05
 location: "Shanghai, China"
 ---
 
-SLides not available
+Slides not available
 
 Multi-state models are widely used in biomedical sciences to illustrate the mechanisms of disease progression.
 However, causal inference in these models is challenging due to the complex interaction between treatment and history in transition rates.
