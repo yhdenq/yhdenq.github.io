@@ -13,5 +13,15 @@ var addressPoints = [
     "Ann Arbor, Michigan, USA",
     42.2808, 
     -83.7430
+  ],
+  [
+    "Nashville, Tennessee, USA",
+    36.1627, 
+    -86.7816
+  ],
+  [
+    "Portland, Oregon, USA",
+    45.5152, 
+    -122.6784
   ]
   ];
