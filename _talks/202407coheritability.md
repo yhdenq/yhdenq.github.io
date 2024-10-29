@@ -1,5 +1,5 @@
 ---
-title: "Computationally efficient methods for estimating co-heritability of multivariate phenotypes using biobank data"
+title: "Computationally efficient methods for estimating coheritability of multivariate phenotypes using biobank data"
 collection: talks
 permalink: /talks/2024coheritability2
 type: "Talk"
