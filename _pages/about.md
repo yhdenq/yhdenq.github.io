@@ -19,5 +19,5 @@ Research interests
 Causal inference; <br />
 Observational studies; <br />
 Survival analysis; <br />
-Semiparametric theory.
+Semiparametric model.
 
