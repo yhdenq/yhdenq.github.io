@@ -5,9 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-Deng Y, Han S#, Zhou X-H*. Inference for Cumulative Incidences and Treatment Effects in Randomized Controlled Trials with Time-to-Event Outcomes under ICH E9 (R1). ArXiv.
+Deng Y, Zeng D, Wang Y*. Computationally Efficient Methods for Estimating Phenome-Wide Coheritability of Multi-Type
+Phenotypes Using Biobank Data. Under Review.
 
-Deng Y, Wang Y, Zhan X, Zhou X-H*. Separable Pathway Effects of Semi-competing Risks using Multi-State Models. ArXiv.
+Deng Y, Han S#, Zhou X-H*. Inference for Cumulative Incidences and Treatment Effects in Randomized Controlled Trials with Time-to-Event Outcomes under ICH E9 (R1). Under Review.
+
+Deng Y, Wang Y, Zhan X, Zhou X-H*. Separable Pathway Effects of Semi-competing Risks using Multi-State Models. Under Review.
 
 Deng Y, Chang Y, Zhou X-H*. Causal Inference with Truncation-by-Death and Confounded Principal Strata. ArXiv.
 
