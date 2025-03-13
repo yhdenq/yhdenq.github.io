@@ -31,6 +31,8 @@ Academic service
 * Reviewer for <i>Journal of Causal Inference</i>
 * Reviewer for <i>Science China -- Mathematics</i>
 * Reviewer for <i>Biostatistics and Epidemiology</i>
+* Reviewer for <i>BMC Medical Research Methodology</i>
+* Reviewer for <i>Scientific Reports</i>
 * Member of Chinese Association for Applied Statistics (中国现场统计研究会)
 * Member of Biometrics Section of American Statistical Association
 * Member of International Chinese Statistical Association
