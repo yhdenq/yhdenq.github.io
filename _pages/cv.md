@@ -19,17 +19,18 @@ Education
 Work experience
 ======
 * 2023-2023 Visiting scholar
-  * Beijing International Center for Mathematical Reseacrch (BICMR), Peking University
+  * Beijing International Center for Mathematical Research (BICMR), Peking University
 * 2023-Now Postdoc research fellow
-  * Department of Biostatistics, Univeristy of Michigan
+  * Department of Biostatistics, University of Michigan
 
 Academic service
 =====
+* Reviewer for <i>Journal of the Royal Statistical Society (Series B)</i>
 * Reviewer for <i>Statistics in Medicine</i>
-* Reviewer for <i>Biostatistics and Epidemiology</i>
+* Reviewer for <i>Statistica Sinica</i>
 * Reviewer for <i>Journal of Causal Inference</i>
 * Reviewer for <i>Science China -- Mathematics</i>
-* Reviewer for <i>Statistica Sinica</i>
+* Reviewer for <i>Biostatistics and Epidemiology</i>
 * Member of Chinese Association for Applied Statistics (中国现场统计研究会)
 * Member of Biometrics Section of American Statistical Association
 * Member of International Chinese Statistical Association
