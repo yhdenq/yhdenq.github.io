@@ -8,7 +8,7 @@ author_profile: true
 Deng Y, Zeng D, Wang Y*. Computationally Efficient Methods for Estimating Phenome-Wide Coheritability of Multi-Type
 Phenotypes Using Biobank Data. Under Review.
 
-Deng Y*, Wang R. Adjusted Nelson–Aalen estimators by inverse treatment probability weighting with an estimated propensity score. Under Review.
+Deng Y*, Wang R. Adjusted Nelson–Aalen estimators by inverse treatment probability weighting with an estimated propensity score. Statistics in Medicine. 2025.
 
 Deng Y, Han S#, Zhou X-H*. Inference for Cumulative Incidences and Treatment Effects in Randomized Controlled Trials with Time-to-Event Outcomes under ICH E9 (R1). Under Review.
 
