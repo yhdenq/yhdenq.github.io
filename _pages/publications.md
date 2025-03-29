@@ -10,7 +10,7 @@ Phenotypes Using Biobank Data. Under Review.
 
 Deng Y*, Wang R. Adjusted Nelson–Aalen estimators by inverse treatment probability weighting with an estimated propensity score. Statistics in Medicine. 2025.
 
-Deng Y, Han S#, Zhou X-H*. Inference for Cumulative Incidences and Treatment Effects in Randomized Controlled Trials with Time-to-Event Outcomes under ICH E9 (R1). 2025.
+Deng Y, Han S#, Zhou X-H*. Inference for Cumulative Incidences and Treatment Effects in Randomized Controlled Trials with Time-to-Event Outcomes under ICH E9 (R1). Statistics in Medicine. 2025.
 
 Deng Y, Wang Y, Zhan X, Zhou X-H*. Separable Pathway Effects of Semi-competing Risks using Multi-State Models. Under Review.
 
