@@ -1,0 +1,18 @@
+---
+title: "Adjusted Nelson--Aalen estimators by inverse treatment probability weighting with an estimated propensity score"
+collection: talks
+permalink: /talks/2025anaipw
+type: "Talk"
+venue: "Lifetime Data Science Conference"
+date: 2025-05-30
+location: "New York, USA"
+---
+
+
+Inverse probability of treatment weighting (IPW) has been well applied in causal inference to estimate population-level estimands from observational studies. 
+For time-to-event outcomes, the failure time distribution can be estimated by estimating the cumulative hazard in the presence of random right censoring. 
+IPW can be performed by weighting the event counting process and at-risk process by the inverse treatment probability, resulting in an adjusted Nelson--Aalen estimator for the population-level counterfactual cumulative incidence function. 
+We consider the adjusted Nelson--Aalen estimator with an estimated propensity score in the competing risks setting. 
+When the estimated propensity score is regular and asymptotically linear, we derive the influence functions for the counterfactual cumulative hazard and cumulative incidence. 
+Then we establish the asymptotic properties for the estimators. We show that the uncertainty in the estimated propensity score contributes to an additional variation in the estimators. 
+However, through simulation and real-data application, we find that such an additional variation is usually small.
