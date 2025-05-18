@@ -13,7 +13,7 @@ Education
 ======
 * 2014-2018 B.S. in Mathematics and applied mathematics, School of Mathematical Sciences, Peking University
 * 2015-2018 B.E. in Economics, National School of Development, Peking University
-* 2018-2019 LL.M. in Human rights, Law School, Peking University & Raoul Wallenberg Institute of Human Rights and Humanitarian Law (RWI)
+* 2018-2019 LL.M. in Human Rights, Law School, Peking University & Raoul Wallenberg Institute of Human Rights and Humanitarian Law (RWI)
 * 2018-2023 Ph.D. in Statistics, School of Mathematical Sciences, Peking University
 
 Work experience
