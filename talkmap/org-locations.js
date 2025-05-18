@@ -33,7 +33,7 @@ var addressPoints = [
     "Portland, Oregon, USA",
     45.5152, 
     -122.6784
-  ]
+  ],
   [
     "New York, USA",
     40.6782, 
