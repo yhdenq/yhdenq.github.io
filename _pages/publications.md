@@ -12,13 +12,9 @@ Deng Y*, Wang R. Adjusted Nelson–Aalen estimators by inverse treatment probabi
 
 Deng Y, Han S#, Zhou X-H*. Inference for Cumulative Incidences and Treatment Effects in Randomized Controlled Trials with Time-to-Event Outcomes under ICH E9 (R1). Statistics in Medicine. 2025.
 
-Kang L, Yin R, Deng Y, Zhang Y, Zhao J, Song Y, Jiang F, Lu C. Parents' Divorce and Early Child Development: A Population-Based Study in China. BMJ Paediatrics Open. 2025.
+Kang L, Yin R, Deng Y, Zhang Y, Zhao J, Song Y*, Jiang F, Lu C. Parents' Divorce and Early Child Development: A Population-Based Study in China. BMJ Paediatrics Open. 2025.
 
-Deng Y, Wang Y, Zhan X, Zhou X-H*. Separable Pathway Effects of Semi-competing Risks using Multi-State Models. ArXiv.
-
-Deng Y, Chang Y, Zhou X-H*. Causal Inference with Truncation-by-Death and Confounded Principal Strata. ArXiv.
-
-Deng Y, Wei H, Xiao X, Zhang Y, Huang Y. Sequential Ignorability and Dismissible Treatment Components to Identify Mediation Effects. Mathematics. 2024.
+Deng Y, Wei H, Xiao X, Zhang Y, Huang Y*. Sequential Ignorability and Dismissible Treatment Components to Identify Mediation Effects. Mathematics. 2024.
 
 Deng Y, Wang Y, Zhou X-H*. Direct and Indirect Effects in the presence of Semi-competing risks. Biometrics. 2024.
 
