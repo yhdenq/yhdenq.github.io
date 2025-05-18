@@ -8,20 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Postdoc research fellow, Biostatistics
+Postdoc research fellow, Biostatistics.
+Department of Biostatistics, School of Public Health, University of Michigan.
 
 Background
 ======
 I got my bachelor's and doctoral degrees from the School of Mathematical Sciences, Peking University. 
 However, I have a wide range of interests. I have a double bachelor's degree in economics from the National School of Development, Peking University, and completed a master's program (non-academic education) in human rights from the Law School, Peking University.
-Now I am a postdoc research fellow at the Department of Biostatistics, University of Michigan.
-
+Now I am a postdoc research fellow at the Department of Biostatistics, University of Michigan. <br />
 Statisticians want to find patterns in complex social activities and discover knowledge from randomness in a rigorous way. As a methodological researcher, I hope to link the statistical theory to practical applications, thereby contributing to scientific development.
 
 Research interests
 ======
-Causal inference; <br />
-Survival analysis; <br />
-Semiparametric modeling; <br />
-Econometrics.
+Causal inference (randomized controlled trials, observational studies, confounding, intercurrent events); <br />
+Survival analysis (multi-state models, interval censoring); <br />
+Semiparametric modeling (asymptotics, efficiency, double robustness); <br />
+Econometrics (quasi-experiments, difference-in-differences).
 
