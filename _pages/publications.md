@@ -20,7 +20,7 @@ Deng Y, Wang Y, Zhou X-H*. Direct and Indirect Effects in the presence of Semi-c
 
 Wang Y, Deng Y#, Zhou X-H*. Causal Inference for Time-to-Event Data with A Cured Subpopulation. Biometrics. 2024.
 
-L Kang, W Ha, MH Chen*, Y Deng. Dynamic matching mechanism and matching stability in college admissions: Evidence from Inner Mongolia. SSRN Preprint. 2023.
+Kang L, Ha W, Chen MH*, Deng Y. Dynamic matching mechanism and matching stability in college admissions: Evidence from Inner Mongolia. SSRN Preprint. 2023.
 
 Wang F, Deng Y*. Non-Asymptotic Bounds of AIPW Estimators for Means with Missingness at Random. Mathematics. 2023.
 
