@@ -37,7 +37,7 @@ Academic service
 * Reviewer for <i>BMC Medical Research Methodology</i>
 * Reviewer for <i>Journal of Pharmaceutical Policy and Practice</i>
 * Reviewer for <i>Scientific Reports</i>
-* Member of Chinese Association for Applied Statistics (中国现场统计研究会)
+* Member of the Chinese Association for Applied Statistics (中国现场统计研究会)
 * Member of the Biometrics Section of the American Statistical Association
 * Member of the American Economic Association
 * Member of the International Chinese Statistical Association
