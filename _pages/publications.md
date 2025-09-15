@@ -7,7 +7,7 @@ author_profile: true
 
 Deng Y, Zeng D, Wang Y*. Semiparametric analysis of interval-censored data subject to inaccurate diagnoses. Under review.
 
-Deng Y, Zhang T, Peng X*, Liu Q*. Improved difference-in-differences by targeted estimation. Economics Letters. 2025.
+Deng Y, Zhang T, Peng X*, Liu Q. Improved difference-in-differences by targeted estimation. Economics Letters. 2025.
 
 Deng Y, Zeng D, Wang Y*. Computationally efficient methods for estimating phenome-wide coheritability of multi-type
 phenotypes using biobank data. Communications Biology. 2025.
