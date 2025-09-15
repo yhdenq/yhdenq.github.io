@@ -38,5 +38,10 @@ var addressPoints = [
     "New York, USA",
     40.6782, 
     -73.9442
+  ],
+  [
+    "Suzhou, China",
+    31.3033, 
+    120.6519
   ]
   ];
