@@ -20,8 +20,10 @@ Work experience
 ======
 * 2023-2023 Visiting scholar
   * Beijing International Center for Mathematical Research (BICMR), Peking University
-* 2023-Now Postdoc research fellow
+* 2023-2026 Postdoc research fellow
   * Department of Biostatistics, University of Michigan
+* 2026-2027 Postdoc research fellow
+  * Fred Hutchinson Cancer Center
 
 Academic service
 =====
@@ -32,7 +34,9 @@ Academic service
 * Reviewer for <i>Statistica Sinica</i>
 * Reviewer for <i>Journal of Causal Inference</i>
 * Reviewer for <i>Journal of Business and Economic Statistics</i>
+* Reviewer for <i>Statistics in Biopharmaceutical Research</i>
 * Reviewer for <i>Science China -- Mathematics</i>
+* Reviewer for <i>Statistical Theory and Related Fields</i>
 * Reviewer for <i>Biostatistics and Epidemiology</i>
 * Reviewer for <i>BMC Medical Research Methodology</i>
 * Reviewer for <i>Journal of Pharmaceutical Policy and Practice</i>
@@ -78,6 +82,6 @@ Books
 * Xiaohua Zhou、Chuan Zhou、Danping Liu、Xiaobo Ding著. 侯艳、邓宇昊、孙佳瑞译. 缺失数据分析在健康科学中的应用. 人民卫生出版社. 2021.
 * Roderick J.A. Little、Donald B. Rubin著. 周晓华、邓宇昊译. 缺失数据统计分析. 高等教育出版社. 2022.
 * Paul R. Rosenbaum著. 周晓华、韩开山、杨伟、邓宇昊译.观察性研究的设计. 高等教育出版社. 2024.
-* 周晓华、邓宇昊、刘礼. 科学出版社. 撰写中.
+* 周晓华、邓宇昊、刘礼著. 科学出版社. 撰写中.
 
 [Download CV](../files/YDeng_CV.pdf)
