@@ -68,10 +68,16 @@ Patents
 * 周晓华、邓宇昊、陆芳、赵阳. 基于临床试验数据的数据处理方法及系统. 专利号ZL 2021 1 0064413.6
 * 周晓华、汪毅、邓宇昊. 一种药物有效性评估方法. 专利号ZL 2023 1 0753119.5
 
+Software
+=====
+* [CSTE](https://cran.r-project.org/web/packages/CSTE/index.html): Covariate Specific Treatment Effect (CSTE) Curve
+* [tteICE](https://cran.r-project.org/web/packages/tteICE/index.html): Treatment Effect Estimation for Time-to-Event Data with Intercurrent Events
+
 Books
 =====
 * Xiaohua Zhou、Chuan Zhou、Danping Liu、Xiaobo Ding著. 侯艳、邓宇昊、孙佳瑞译. 缺失数据分析在健康科学中的应用. 人民卫生出版社. 2021.
 * Roderick J.A. Little、Donald B. Rubin著. 周晓华、邓宇昊译. 缺失数据统计分析. 高等教育出版社. 2022.
 * Paul R. Rosenbaum著. 周晓华、韩开山、杨伟、邓宇昊译.观察性研究的设计. 高等教育出版社. 2024.
+* 周晓华、邓宇昊、刘礼. 科学出版社. 撰写中.
 
 [Download CV](../files/YDeng_CV.pdf)
