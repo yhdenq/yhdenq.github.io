@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,19 +11,19 @@ redirect_from:
 
 Education
 ======
-* 2014-2018 B.S. in Mathematics and applied mathematics, School of Mathematical Sciences, Peking University
-* 2015-2018 B.E. in Economics, National School of Development, Peking University
-* 2018-2019 LL.M. in Human Rights, Law School, Peking University & Raoul Wallenberg Institute of Human Rights and Humanitarian Law (RWI)
-* 2018-2023 Ph.D. in Statistics, School of Mathematical Sciences, Peking University
+* 2014-2018 B.S. in Mathematics and Applied Mathematics, School of Mathematical Sciences, Peking University, China
+* 2015-2018 B.E. in Economics, National School of Development, Peking University, China
+* 2018-2019 LL.M. in Human Rights, Law School, Peking University & Raoul Wallenberg Institute of Human Rights and Humanitarian Law, China/Sweden
+* 2018-2023 Ph.D. in Statistics, School of Mathematical Sciences, Peking University, China
 
 Work experience
 ======
 * 2023-2023 Visiting scholar
-  * Beijing International Center for Mathematical Research (BICMR), Peking University
+  * Beijing International Center for Mathematical Research (BICMR), Peking University, China
 * 2023-2026 Postdoc research fellow
-  * Department of Biostatistics, University of Michigan
+  * Department of Biostatistics, University of Michigan, USA
 * 2026-2027 Postdoc research fellow
-  * Fred Hutchinson Cancer Center
+  * Fred Hutchinson Cancer Center, USA
 
 Academic service
 =====
@@ -69,8 +69,11 @@ Grants
 
 Patents
 =====
-* 周晓华、邓宇昊、陆芳、赵阳. 基于临床试验数据的数据处理方法及系统. 专利号ZL 2021 1 0064413.6
-* 周晓华、汪毅、邓宇昊. 一种药物有效性评估方法. 专利号ZL 2023 1 0753119.5
+* 周晓华、邓宇昊、陆芳、赵阳. 北京大学、中国中医科学院西苑医院. 基于临床试验数据的数据处理方法及系统. 专利号CN 2021 1 0064413.6
+* 周晓华、邓宇昊. 北京大学、北京大学重庆大数据研究院. 一种药物有效性评估方法. 专利号CN 2023 1 0753119.5
+* 周晓华、汪毅、邓宇昊. 北京大学、北京大学重庆大数据研究院. 存在部分治愈人群的药物有效性评估方法和系统. 专利号CN 2022 1 0800499.9
+* 周晓华、邓宇昊. 北京大学. 观察性研究中存在伴发事件时药物有效性评估方法和系统. 专利号CN 2022 1 0793245.9
+* 周晓华、冯信钦、邓宇昊、许婧榆. 北京大学. 包含时依协变量的临床多状态模型因果推断及预测方法和系统. 专利号CN 2024 1 1993041.5
 
 Software
 =====
