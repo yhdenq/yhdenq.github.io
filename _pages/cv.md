@@ -29,9 +29,10 @@ Academic service
 =====
 * Reviewer for <i>Journal of the Royal Statistical Society (Series B)</i>
 * Reviewer for <i>Annals of Applied Statistics</i>
+* Reviewer for <i>Biometrics</i>
+* Reviewer for <i>Statistica Sinica</i>
 * Reviewer for <i>Statistics in Medicine</i>
 * Reviewer for <i>Statistical Methods in Medical Research</i>
-* Reviewer for <i>Statistica Sinica</i>
 * Reviewer for <i>Journal of Causal Inference</i>
 * Reviewer for <i>Journal of Business and Economic Statistics</i>
 * Reviewer for <i>Statistics in Biopharmaceutical Research</i>
@@ -43,9 +44,9 @@ Academic service
 * Reviewer for <i>Scientific Reports</i>
 * Member of the Biometrics Section of the American Statistical Association
 * Member of the American Economic Association
-* Member of the International Chinese Statistical Association
 * Member of the Society of Causal Inference
 * Member of the Econometric Society
+* Member of the International Chinese Statistical Association
 * Member of the Chinese Association for Applied Statistics (中国现场统计研究会)
 
 Teaching
