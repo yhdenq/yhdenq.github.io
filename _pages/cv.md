@@ -44,8 +44,9 @@ Academic service
 * Member of the Biometrics Section of the American Statistical Association
 * Member of the American Economic Association
 * Member of the International Chinese Statistical Association
-* Member of the Chinese Association for Applied Statistics (中国现场统计研究会)
 * Member of the Society of Causal Inference
+* Member of the Econometric Society
+* Member of the Chinese Association for Applied Statistics (中国现场统计研究会)
 
 Teaching
 =====
