@@ -27,4 +27,5 @@ Econometrics (quasi-experiments, difference-in-differences).
 
 Latest
 ======
-I will chair a session, "Robust Causal Inference in Non- or Quasi-Experimental Designs," in the [American Economic Association Meetings](https://www.aeaweb.org/conference/) in Philadelphia (January 3-5, 2026).
+I will chair a session, "Robust causal inference in non- or quasi-experimental designs," in the [American Economic Association Meetings](https://www.aeaweb.org/conference/) in Philadelphia (January 3-5, 2026).<br />
+I will chair a session, "Learning from science: Integrative and meta-analysis," in the [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2026/) in Boston (August 1-6, 2026).
