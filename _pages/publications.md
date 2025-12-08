@@ -7,6 +7,8 @@ author_profile: true
 
 Deng Y, Zeng D, Wang Y*. Semiparametric analysis of interval-censored data subject to inaccurate diagnoses. Under review.
 
+陶新戈, 陈王跃, 李彦增, 邓宇吴, 杜昕松, 韩莎莎. 【标准与规范】开发临床预测模型的分步指南内容及适用性解读. 数字医学与健康. 2025.
+
 Deng Y, Zhang T, Peng X*, Liu Q. Improved difference-in-differences by targeted estimation. Economics Letters. 2025.
 
 Deng Y, Zeng D, Wang Y*. Computationally efficient methods for estimating phenome-wide coheritability of multi-type
