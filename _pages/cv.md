@@ -36,6 +36,7 @@ Academic service
 * Reviewer for <i>Journal of Causal Inference</i>
 * Reviewer for <i>Journal of Business and Economic Statistics</i>
 * Reviewer for <i>Statistics in Biopharmaceutical Research</i>
+* Reviewer for <i>The International Journal of Biostatistics</i>
 * Reviewer for <i>Science China -- Mathematics</i>
 * Reviewer for <i>Statistical Theory and Related Fields</i>
 * Reviewer for <i>Biostatistics and Epidemiology</i>
