@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Deng Y, Zeng D, Wang Y*. Semiparametric analysis of interval-censored data subject to inaccurate diagnoses. Under review.
+Deng Y, Zeng D, Wang Y*. Semiparametric analysis of interval-censored data subject to inaccurate diagnoses. Annuals of Applied Statistics. 2026.
 
 陶新戈, 陈王跃, 李彦增, 邓宇吴, 杜昕松, 韩莎莎*. 开发临床预测模型的分步指南内容及适用性解读. 数字医学与健康. 2025.
 
