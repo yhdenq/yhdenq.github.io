@@ -43,7 +43,6 @@ var addressPoints = [
     "Suzhou, China",
     31.3033, 
     120.6519
-  ]
   ],
   [
     "Philadelphia, Pennsylvania, USA",
