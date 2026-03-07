@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Postdoc research fellow, Biostatistics. <br />
-Department of Biostatistics, School of Public Health, University of Michigan, Ann Arbor, Michigan, USA.
+Postdoc research fellow. <br />
+Biostatistics, Bioinformatics, and Epidemiology Program, Vaccine and Infectious Disease Division <br />
+Fred Hutchinson Cancer Center, Seattle, Washington, USA.
 
 Background
 ======
