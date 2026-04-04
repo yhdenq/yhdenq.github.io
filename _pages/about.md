@@ -16,7 +16,7 @@ Background
 ======
 I earned my bachelor's and doctoral degrees from the School of Mathematical Sciences at Peking University. 
 However, I have a wide range of interests. I have a double bachelor's degree in economics from the National School of Development, Peking University, and completed a master's program (non-academic education) in human rights from the Law School, Peking University.
-I was a postdoctoral research fellow in the Department of Biostatistics at the University of Michigan. I am currently a postdoctoral research fellow in the Vaccine and Infectious Disease Division at the Fred Hutchinson Cancer Center. <br />
+I was a postdoctoral research fellow in the Department of Biostatistics at the University of Michigan. I am currently a postdoctoral research fellow in the Vaccine and Infectious Disease Division (VIDD) at the Fred Hutchinson Cancer Center. <br />
 Statisticians seek to identify patterns in complex social activities and derive knowledge from randomness in a rigorous way. As a methodological researcher, I aim to connect statistical theories to practical applications, thereby advancing scientific development.
 
 Research interests
@@ -28,4 +28,5 @@ Econometrics (quasi-experiments, difference-in-differences).
 
 Latest
 ======
-* I will chair a session, "Learning from Science for Synthesized Knowledge: Integrative Analysis and Meta-Analysis," at the [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2026/) in Boston (August 1-6, 2026).
+* I will give a presentation, "Treatment effect estimation for time-to-event endpoints with intercurrent events," in an invited session at the [33rd International Biometric Conference (IBC)](https://www.ibc2026.org/home) in Seoul, South Korea (July 12-16, 2026).
+* I will chair a session, "Learning from Science for Synthesized Knowledge: Integrative Analysis and Meta-Analysis," at the [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2026/) in Boston, USA (August 1-6, 2026).
