@@ -30,6 +30,7 @@ Academic service
 * Reviewer for <i>Journal of the Royal Statistical Society (Series B)</i>
 * Reviewer for <i>Annals of Applied Statistics</i>
 * Reviewer for <i>Biometrics</i>
+* Reviewer for <i>Biostatistics</i>
 * Reviewer for <i>Statistica Sinica</i>
 * Reviewer for <i>Statistics in Medicine</i>
 * Reviewer for <i>Statistical Methods in Medical Research</i>
