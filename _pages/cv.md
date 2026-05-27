@@ -42,10 +42,11 @@ Academic service
 * Reviewer for <i>Psychometrika</i>
 * Reviewer for <i>Science China -- Mathematics</i>
 * Reviewer for <i>Statistical Theory and Related Fields</i>
-* Reviewer for <i>Biostatistics and Epidemiology</i>
 * Reviewer for <i>Biometrical Journal</i>
+* Reviewer for <i>Biostatistics and Epidemiology</i>
 * Reviewer for <i>BMC Medical Research Methodology</i>
 * Reviewer for <i>Journal of Pharmaceutical Policy and Practice</i>
+* Reviewer for <i>Communications Health</i>
 * Reviewer for <i>Scientific Reports</i>
 * Reviewer for <i>CLeaR</i>
 * Member of the Biometrics Section of the American Statistical Association
