@@ -28,6 +28,7 @@ Work experience
 Academic service
 =====
 * Reviewer for <i>Journal of the Royal Statistical Society (Series B)</i>
+* Reviewer for <i>Journal of the American Statistical Assocaition</i>
 * Reviewer for <i>Annals of Applied Statistics</i>
 * Reviewer for <i>Biometrics</i>
 * Reviewer for <i>Biostatistics</i>
