@@ -24,6 +24,20 @@ Work experience
   * Department of Biostatistics, University of Michigan, USA
 * 2026-2027 Postdoc research fellow
   * Fred Hutchinson Cancer Center, USA
+ 
+Society membership
+=====
+* Member of the Biometrics Section, Lifetime Data Science Section of the American Statistical Association (ASA)
+* Member of the American Economic Association (AEA)
+* Member of the Society of Causal Inference (SCI)
+* Member of the Econometric Society (ES)
+* Member of the International Chinese Statistical Association (ICSA)
+* Member of the Chinese Association for Applied Statistics (中国现场统计研究会)
+ 
+Awards
+=====
+* SCI Travel Award
+* JSM Early Career Travel Award
 
 Academic service
 =====
@@ -32,6 +46,7 @@ Academic service
 * Reviewer for <i>Annals of Applied Statistics</i>
 * Reviewer for <i>Biometrics</i>
 * Reviewer for <i>Biostatistics</i>
+* Reviewer for <i>Epidemiology</i>
 * Reviewer for <i>Statistica Sinica</i>
 * Reviewer for <i>Statistics in Medicine</i>
 * Reviewer for <i>Statistical Methods in Medical Research</i>
@@ -49,12 +64,6 @@ Academic service
 * Reviewer for <i>Communications Health</i>
 * Reviewer for <i>Scientific Reports</i>
 * Reviewer for <i>CLeaR</i>
-* Member of the Biometrics Section of the American Statistical Association
-* Member of the American Economic Association
-* Member of the Society of Causal Inference
-* Member of the Econometric Society
-* Member of the International Chinese Statistical Association
-* Member of the Chinese Association for Applied Statistics (中国现场统计研究会)
 
 Teaching
 =====
