@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Deng Y, Wang R, Zhang T\*, Zhan X\*. Randomized interventional effects for semicompeting risks, with application to allogeneic stem cell transplantation study. Statistics in Medicine. 2026.
+Deng Y, Wang R, Zhang T\*, Zhan X\*. Randomized interventional effects for semicompeting risks, with application to a hematopoietic cell transplantation study. Statistics in Medicine. 2026.
 
 Deng Y, Zeng D, Wang Y*. Semiparametric analysis of interval-censored data subject to inaccurate diagnoses. Annals of Applied Statistics. 2026.
 
