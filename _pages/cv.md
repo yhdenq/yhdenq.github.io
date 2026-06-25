@@ -50,6 +50,7 @@ Academic service
 * Reviewer for <i>Statistica Sinica</i>
 * Reviewer for <i>Statistics in Medicine</i>
 * Reviewer for <i>Statistical Methods in Medical Research</i>
+* Reviewer for <i>Journal of Applied Statistics</i>
 * Reviewer for <i>Journal of Causal Inference</i>
 * Reviewer for <i>Journal of Business and Economic Statistics</i>
 * Reviewer for <i>Statistics in Biopharmaceutical Research</i>
