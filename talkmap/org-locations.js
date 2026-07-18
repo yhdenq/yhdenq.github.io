@@ -48,5 +48,15 @@ var addressPoints = [
     "Philadelphia, Pennsylvania, USA",
     39.9526,
     -75.1608
+  ],
+  [
+    "Seoul, South Korea",
+    37.5627,
+    127.8242
+  ],
+  [
+    "Boston, Massachusetts, USA",
+    42.3450,
+    -71.0472
   ]
   ];
