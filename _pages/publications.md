@@ -9,7 +9,7 @@ Deng Y, Wang R, Zhang T\*, Zhan X\*. Randomized interventional effects for semic
 
 Deng Y, Zeng D, Wang Y*. Semiparametric analysis of interval-censored data subject to inaccurate diagnoses. Annals of Applied Statistics. 2026.
 
-陶新戈, 陈王跃, 李彦增, 邓宇吴, 杜昕松, 韩莎莎*. 开发临床预测模型的分步指南内容及适用性解读. 数字医学与健康. 2025.
+陶新戈, 陈王跃, 李彦增, 邓宇昊, 杜昕松, 韩莎莎*. 开发临床预测模型的分步指南内容及适用性解读. 数字医学与健康. 2025.
 
 Deng Y, Zhang T, Peng X\*, Liu Q\*. Improved difference-in-differences by targeted estimation. Economics Letters. 2025.
 
