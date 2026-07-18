@@ -9,11 +9,9 @@ location: "Beijing, China"
 ---
 
 
-
-
-This is a short course at Pacific Causal Inference Conference ([PCIC 2023](https://pattern.swarma.org/pcic/))
+This is a short course at the Pacific Causal Inference Conference ([PCIC 2023](https://pattern.swarma.org/pcic/))
 held at Peking University, Beijing, China.
-This course targets on graduate students, undergraduate studentss, clinicians, and statisticians in industry.
+This course targets graduate students, undergraduate students, clinicians, and statisticians in industry.
 
 
 Outline: <br />
@@ -27,4 +25,3 @@ Broken randomized experiments; <br />
 Observational studies: Ignorability; <br />
 Observational studies: Non-ignorability.
 
-[Materials (in Chinese)](../files/causal_short_course.zip)
