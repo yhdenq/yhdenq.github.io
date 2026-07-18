@@ -28,5 +28,4 @@ Econometrics (quasi-experiments, difference-in-differences).
 
 Latest
 ======
-* I will give a presentation, "Treatment effect estimation for time-to-event endpoints with intercurrent events," in an invited session at the [33rd International Biometric Conference (IBC)](https://www.ibc2026.org/home) in Seoul, South Korea (July 12-16, 2026).
 * I will chair a session, "Learning from Science for Synthesized Knowledge: Integrative Analysis and Meta-Analysis," at the [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2026/) in Boston, USA (August 1-6, 2026).
