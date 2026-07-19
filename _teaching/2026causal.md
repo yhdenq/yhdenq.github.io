@@ -1,5 +1,5 @@
 ---
-title: "Causal Inference"
+title: "Short Course: Causal Inference"
 collection: teaching
 type: "Short course"
 permalink: /teaching/causalAI
