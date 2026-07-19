@@ -103,7 +103,7 @@ Books
 =====
 * Xiaohua Zhou、Chuan Zhou、Danping Liu、Xiaobo Ding著. 侯艳、邓宇昊、孙佳瑞译. 缺失数据分析在健康科学中的应用. 人民卫生出版社. 2021.
 * Roderick J.A. Little、Donald B. Rubin著. 周晓华、邓宇昊译. 缺失数据统计分析. 高等教育出版社. 2022.
-* Paul R. Rosenbaum著. 周晓华、韩开山、杨伟、邓宇昊译.观察性研究的设计. 高等教育出版社. 2024.
-* 周晓华、邓宇昊、刘礼著. 科学出版社. 撰写中.
+* Paul R. Rosenbaum著. 周晓华、韩开山、杨伟、邓宇昊译. 观察性研究的设计. 高等教育出版社. 2024.
+* 周晓华、邓宇昊、李昊轩、郑淳元、刘礼著. AI时代的因果推断: 大数据视角下的统计方法与应用. 科学出版社. 撰写中.
 
 [Download CV](../files/YDeng_CV.pdf)
