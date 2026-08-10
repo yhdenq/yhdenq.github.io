@@ -26,6 +26,3 @@ Survival analysis (multi-state models, interval censoring); <br />
 Semiparametric modeling (asymptotics, efficiency, double robustness); <br />
 Econometrics (quasi-experiments, difference-in-differences).
 
-Latest
-======
-* I will chair a session, "Learning from Science for Synthesized Knowledge: Integrative Analysis and Meta-Analysis," at the [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2026/) in Boston, USA (August 1-6, 2026).
