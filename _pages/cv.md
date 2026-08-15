@@ -60,8 +60,10 @@ Academic service
 * Reviewer for <i>Statistical Theory and Related Fields</i>
 * Reviewer for <i>Biometrical Journal</i>
 * Reviewer for <i>Biostatistics and Epidemiology</i>
+* Reviewer for <i>Journal of Nonparametric Statistics</i>
 * Reviewer for <i>BMC Medical Research Methodology</i>
 * Reviewer for <i>Journal of Pharmaceutical Policy and Practice</i>
+* Reviewer for <i>Clinical Trials</i>
 * Reviewer for <i>Communications Health</i>
 * Reviewer for <i>Scientific Reports</i>
 * Reviewer for <i>CLeaR</i>
